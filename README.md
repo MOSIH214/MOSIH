@@ -9,3 +9,6 @@ I am learning blockchain development and exploring the Base ecosystem.
 - Learn smart contracts
 - Build simple dApps
 - Contribute to Web3 projects
+
+## Status
+Active 🚀
